@@ -7,8 +7,14 @@
 			<li>funny micah hahaha</li>
 			<li>lioness the beautiful</li>
 			<li>edit right after you created branch</li>
+<<<<<<< HEAD
 			<li>Editing on Feature 2 branch now</li>
 			<li>lalala </li>
+			<li>edit on master </li>
+=======
+			<li>did you see the branch?</li>
+			<li>tadah! Lionese the Master says hi~~</li>
+>>>>>>> master
 		</ul>
 		</div>
 	</body>
